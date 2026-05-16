@@ -1,0 +1,16 @@
+{
+  "Airline": "Biman Bangladesh Airlines",
+  "Source": "DAC",
+  "Destination": "CGP",
+  "Stopovers": "Direct",
+  "Aircraft_Type": "Boeing 737",
+  "Class": "Economy",
+  "Booking_Source": "Online Website",
+  "Seasonality": "Regular",
+  "Departure_Day": 12,
+  "Departure_Month": 5,
+  "Departure_Hour": 9,
+  "Departure_Weekday": 2,
+  "Base_Fare": 5500.0,
+  "Tax_Surcharge": 1300.0
+}
